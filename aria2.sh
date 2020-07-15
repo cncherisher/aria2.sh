@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/bin/bash
 #
 # Copyright (c) 2017 Toyo
 # Copyright (c) 2018-2020 P3TERX <https://p3terx.com>
